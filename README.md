@@ -1,2 +1,3 @@
 # HFT-for-MM-project
-Implementation of HFT MM strategy 
+Implementation of HFT MM strategy  
+
