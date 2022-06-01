@@ -4,9 +4,9 @@ from sql_work import SQL_manager
 
 """   Personal info!!!   """
 
-token = "t.EmsMWh-ufRjkccG8j5Az5tLqswa9FzFvhw2SUI7UL-hP_0m6T4-L8v12OgQbThJtVEaoru8jR792qtukZOaYAQ"
-sandbox_token = "t.bkJFTTJVx9X71vD3eF4ftm0Rm7_em3p61oNRnBPY-Ixza9XPB8CEqsD3XnXbMs4BqtyXR8kGZ5sEkF25S1gXuQ"
-acc_id = '2056883362'
+token = "t.some_characters"
+sandbox_token = "t.some_other_characters"
+acc_id = 'some_number'
 
 figi_usd = "BBG0013HGFT4"  #BBG000BWPXQ8
 figi_Microsoft = "BBG000BPH459"
