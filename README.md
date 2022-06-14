@@ -5,5 +5,5 @@ In order to rpoperly run the code, one should input fields in the config file wi
 These fields were deleted in purpose of personal data protection.  
 
 # Requirements:
-pip install tinkoff.invest  
+pip install tinkoff-investments  
 pip install psycopg2
